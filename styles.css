@@ -332,3 +332,13 @@ button,input,select,textarea{font:inherit}
   .reveal{opacity:1;transform:none;transition:none}
   *{animation:none!important;transition:none!important}
 }
+
+.portfolio-disclaimer{
+  margin-top:24px;
+  padding:18px 20px;
+  border:1px solid rgba(214,189,155,.28);
+  background:rgba(255,255,255,.04);
+  color:#cfc8c1;
+  font-size:13px;
+}
+.portfolio-disclaimer strong{color:#f2dbc0}
